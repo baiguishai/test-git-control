@@ -1,0 +1,30 @@
+<view class="container">
+  <!-- 顶部 -->
+  <view class="top">
+    <view class="cn">关于优贝月子会所</view>
+    <view class="en"> ABOUT ROYALBABY CONFINEMENT CLUB</view>
+  </view>
+  <!-- 广告 -->
+  <view class="bar">
+    <image src="../images/abt2.jpg"></image>
+  </view>
+</view>
+<!-- 主体 -->
+<view class="content main">
+  <view class="abttit">
+    <view class="cn">{{name}}</view>
+    <view class="en">HUIZHOU ROYALBABY HEALTH MANAGEMENT CO., LTD</view>
+  </view>
+  <view class="alltxt">
+   <view class="">优贝，一个月的家，最美的蜕变（一辈子的关爱），携手时尚新手妈妈，培育优秀宝贝。</view>
+   <view class="">优贝月子会所是从事高端母婴一站式月子服务的专业机构，拥有一流的技术与服务、一流的卫生与环境、一流的膳食与营养。做惠州最好、最高端的月子会所。</view>
+   <view class="">会所位于红花湖景区润园星级酒店别墅区内，百亩绿化景观环绕，毗邻沃尔玛超市和第一妇婴保健院，既幽静舒适，又安全便捷。会所拥有采光明亮，温馨舒适的母婴房间，房间配套设施齐全，功能先进。每个母婴房间里均配有独立卫生间、沙发、婴儿床、电视、电冰箱、WIFI等等。会所量身打造的专业室内环境，低调奢华，有宝宝游泳馆、产妇休闲区、调理按摩室、心理咨询室、瑜伽馆等。三重顶级安防控制体系，专属的访客接待区域，人性化的探视流程，确保安全私密。入住优贝的产妇减轻了成为新手妈妈的无助和劳累，增加了带宝贝的快乐与幸福。在优贝，学习科学养育宝贝的知识，培养宝贝的良好作息习惯。每天专业医师、护士观察宝宝各项体征，详细记录宝宝成长过程、科学喂养方法、细致照顾。在优贝，新妈妈的饮食、生理、精神等各方面都得到更专业的护理，配合国际先进的产后修复仪器和中西医理疗，饮食和运动的专业搭配，以期在最短的时间恢复最佳状态，实现由孕妇到辣妈的完美过渡。“让产妇心情好、恢复快，完美蜕变成时尚辣妈。</view>
+   <view class="">让宝宝享受最贴心，最科学的照顾，健康快乐成长！”既是我们优贝服务的目标，更是优贝对宝宝及其家人一辈子的关爱和长期服务的承诺。 </view> 
+  </view>
+  <view class="address"><text>地址：</text>惠州市红花湖路98号润园</view>
+  <view class="phone"><text>咨询电话：</text>18688320003</view>
+</view>
+
+<view class="container baby">
+  <image src="../images/abt3.jpg"></image>
+</view>

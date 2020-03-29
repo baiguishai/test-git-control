@@ -1,0 +1,116 @@
+/**index.wxss**/
+/* 顶部 */
+
+.top{
+  width:100%;
+  color:#bf2645;  
+  font-size:30px;
+  /* font-family: "微软雅黑"; */
+  justify-content: center;
+  align-items: center;
+}
+.top .logo{
+  width:13.6%;
+  margin-right:1%;
+}
+.top .logo image{
+  height:81px;
+}
+.name{
+  text-align: center;
+}
+.en{
+  font-size:10px;
+  font-family: "微软雅黑"
+}
+
+/* 最新资讯 */
+.newmsg{
+  font-size:28rpx;
+  color:#9d9d9d;
+  justify-content: space-around;
+  align-items: center;
+}
+.newmsg .lft{
+  font-size:28rpx;
+  color:#343434;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+.newmsg .line{
+  width:0;
+  height:28rpx;
+  border:2px solid #bf2645;
+  margin-right:10rpx;
+}
+.newmsg .mid{
+  font-size:23rpx;
+  font-family: "微软雅黑";
+  color:#666;
+}
+/* 前台照片 */
+.fstpic image{
+  height:282.42rpx;
+}
+/* 服务宗旨 */
+.fstsver{
+  font-size:28.12rpx;
+  font-family: "微软雅黑";
+  color:#6e6e6e;
+  font-weight: bold;
+  
+}
+.fstsver .tit{
+  font-size:35.15rpx;
+  color:#373737;
+  line-height: 65rpx;
+}
+.fstsver .more{
+  display:inline-block;
+  color:#bf2645;
+  width:auto;
+  font-size:23rpx;
+  line-height: 35rpx;
+  padding:0 15rpx;
+  border:1px solid #bf2645;
+  border-radius: 15rpx;
+  float:right;
+}
+/* 优贝服务 */
+.sevname{
+  font-size:35.15rpx;
+  color:#2a2a10;
+  font-weight: bold;
+  font-family: "微软雅黑";
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom:1px solid #ccc;
+  padding:10rpx 0;
+  margin-bottom:10rpx;
+}
+.sevname .more{
+  font-size:10px;
+  color:#bfbfbf;
+  font-weight: normal;
+}
+/* 优贝服务图片展示 */
+.sevpic{
+  justify-content: space-around;
+  flex-wrap:wrap;
+}
+.showpic{
+  width:31.4%;
+  font-size:28.1rpx;
+  color:#2a2a10;
+}
+.showpic image{
+  height:182.8rpx;
+}
+.showpic tit{
+ 
+}
+.showpic .en{
+  font-size:10px;
+  color:#a3a3a3;
+}

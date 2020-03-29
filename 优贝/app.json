@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/about/about",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "惠州市优贝健康管理有限公司",
+    "navigationBarTextStyle":"black"
+  }
+}
